@@ -1,0 +1,12 @@
+spring :
+  batch:
+    job:
+      enabled: true
+  datasource :
+   url : jdbc:h2:mem:test
+youtube :
+    client-key :
+    channelIds :
+      - UCdp4_yTBhQmB8E339Lafzow
+      - UCEE10-s88CeOCDzNMLhsblw
+      - UCWlV3Lz_55UaX4JsMj-z__Q
